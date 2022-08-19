@@ -10,7 +10,7 @@ En esta edición del curso los estudiantes van a proponer y elegir el proyecto e
 
 Para ello haremos lo siguiente:
 
-1. Durante las primeras semana del curso los estudiantes propondrán consignas de proyectos. Las consignas deben ajustarse a las siguientes características:
+1. Al comienzo del curso los estudiantes propondrán consignas de proyectos. Las consignas deben ajustarse a las siguientes características:
 
     - El proyecto debe resolver un problema alrededor de uno o más de los diecisiete [objetivos de desarrollo sostenible](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/) de las Naciones Unidas.
 
@@ -19,11 +19,19 @@ Para ello haremos lo siguiente:
     - Deberán utilizar [datos abiertos](https://es.wikipedia.org/wiki/Datos_abiertos). Vean por ejemplo [Datos Abiertos de la Agenda 2030 para el Desarrollo Sostenible de CEPAL](https://biblioguias.cepal.org/c.php?g=447204&p=3192651) o [Datos abiertos y Objetivos de Desarrollo Sostenible del gobierno de España](https://datos.gob.es/es/blog/datos-abiertos-y-objetivos-de-desarrollo-sostenible).
 
     - La pregunta orientadora del proyecto debe comenzar con "Cómo podemos nosotros, estudiantes del curso de Programación II, ..." y ahi formular el problema para el proyecto.
+    
+    - :date: lanzamiento **lunes 22 de agosto**
+    
+    - :date: recepción de propuestas el **lunes 29 de agosto**
 
 2. Los profesores vamos a revisar las propuestas presentadas y ajustarlas si es necesario. Luego vamos a ponerlas a votación de los estudiantes.
 
 3. Los estudiantes van a votar las propuestas, pudiendo sugerir modificaciones a las propuestas presentadas.
 
+    - :date: votación de propuestas **lunes 5 de setiembre**
+
 4. Las cuatro propuestas más votadas, con las modificaciones sugeridas por los estudiantes y ajustadas por los profesores, van a ir a una final.
 
 5. Los estudiantes van a votar una de estas cuatro propuestas finalistas como proyecto.
+
+    - :date: votación final y kick-off del proyecto **lunes 12 de setiembre**
