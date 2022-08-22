@@ -35,3 +35,5 @@ Para ello haremos lo siguiente:
 5. Los estudiantes van a votar una de estas cuatro propuestas finalistas como proyecto.
 
     - :date: votación final y kick-off del proyecto **lunes 12 de setiembre**
+
+:warning: Para enviar sus propuestas utilicen [este formulario](https://forms.office.com/r/rF5qakKX1V). :warning:
