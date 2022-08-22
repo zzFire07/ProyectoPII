@@ -36,4 +36,4 @@ Para ello haremos lo siguiente:
 
     - :date: votación final y kick-off del proyecto **lunes 12 de setiembre**
 
-:warning: Para enviar sus propuestas utilicen [este formulario](https://forms.office.com/r/rF5qakKX1V). :warning:
+:warning: Para enviar sus propuestas utilicen [este formulario](https://forms.office.com/r/rF5qakKX1V). Cada estudiante debe enviar una propuesta, pero pueden enviar más de una. :warning:
