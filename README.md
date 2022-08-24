@@ -16,7 +16,7 @@ Para ello haremos lo siguiente:
 
     - Tendrán que construir un [chatbot conversacional](https://es.wikipedia.org/wiki/Bot_conversacional) en el proyecto. Esto es para que tengan una interfaz amigable y sencilla de implementar, en lugar de tener que constuir una aplicación de escritorio, una aplicación web, o una aplicación móvil.
 
-    - Deberán utilizar [datos abiertos](https://es.wikipedia.org/wiki/Datos_abiertos). Vean por ejemplo [Datos Abiertos de la Agenda 2030 para el Desarrollo Sostenible de CEPAL](https://biblioguias.cepal.org/c.php?g=447204&p=3192651) o [Datos abiertos y Objetivos de Desarrollo Sostenible del gobierno de España](https://datos.gob.es/es/blog/datos-abiertos-y-objetivos-de-desarrollo-sostenible).
+    - Deberán utilizar [datos abiertos](https://es.wikipedia.org/wiki/Datos_abiertos). Vean por ejemplo [Datos Abiertos de la Agenda 2030 para el Desarrollo Sostenible de CEPAL](https://biblioguias.cepal.org/c.php?g=447204&p=3192651), [Datos abiertos y Objetivos de Desarrollo Sostenible del gobierno de España](https://datos.gob.es/es/blog/datos-abiertos-y-objetivos-de-desarrollo-sostenible) o https://catalogodatos.gub.uy/.
 
     - La pregunta orientadora del proyecto debe comenzar con "Cómo podemos nosotros, estudiantes del curso de Programación II, ..." y ahi formular el problema para el proyecto.
     
