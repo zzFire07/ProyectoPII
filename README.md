@@ -22,7 +22,7 @@ Para ello haremos lo siguiente:
     
     - :date: lanzamiento **lunes 22 de agosto**
     
-    - :date: recepción de propuestas el **lunes 29 de agosto**
+    - :date: recepción de propuestas el **miércoles 31 de agosto**
 
 2. Los profesores vamos a revisar las propuestas presentadas y ajustarlas si es necesario. Luego vamos a ponerlas a votación de los estudiantes.
 
