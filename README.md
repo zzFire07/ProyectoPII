@@ -37,3 +37,16 @@ Para ello haremos lo siguiente:
     - :date: votación final y kick-off del proyecto **lunes 12 de setiembre**
 
 :warning: Para enviar sus propuestas utilicen [este formulario](https://forms.office.com/r/rF5qakKX1V). Cada estudiante debe enviar una propuesta, pero pueden enviar más de una. :warning:
+
+
+## Roadmap y Entregables
+| Instancia | Fecha | Entregables |
+| --- | --- | --- |
+| Kick-off | 12 de Setiembre |
+| Primer Entrega | 28 de Setiembre | Entrega de tarjetas CRC/Diagrama de Clases/Código de clases de dominio<sup>1</sup>
+| Segunda Entrega | 30 de Octubre | Entrega de [User Stories](https://es.wikipedia.org/wiki/Historias_de_usuario) implementadas. Las historias de usuario deberán ser implementadas mediante casos de prueba (TDD).
+| Entrega Final | 30 de Noviembre<sup>2</sup>|
+
+<sup>1</sup> Cada equipo designará qué integrante del equipo desarrollará cada clase. La distribución debe contemplar número de clases y responsabilidades. Se evaluará que cada integrante trabaje en una rama independiente y que se integren los cambios mediante pull requests.
+
+<sup>2</sup> Las entregas serán hasta las 23:59 del día indicado.
