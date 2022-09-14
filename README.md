@@ -30,16 +30,18 @@ Algunas de las aplicaciones más conocidas que abren sus puertas al desarrollo d
 
 Aquí veremos una explicación general e informal de las funciones del software (nuestro programa), escrita desde la perspectiva del usuario final. Su propósito es articular cómo el software proporcionará una función de valor al cliente.
 
-- Cómo adminsitrador, quiero poder indicar categorías sobre las cuales se realizarán las ofertas de trabajo
-- Como administrador, quiero poder dar de baja ofertas de trabajo, avisando al oferente
-- Como trabajador, quiero poder hacer ofertas de trabajo; mi oferta indicará en qué categoría quiero publicar, tendrá una descripción del servicio ofertado, y un precio.
-- Como empleador, quiero poder buscar ofertas de trabajo por categoría.
-- Como empleador, quiero poder filtrar las ofertas de trabajo cercanas a mi ubicación.
-- Como empleador, quiero poder ordenar las ofertas de trabajo por reputación.
-- Como empleador, quiero poder contactar a un trabajador
-- Como trabajador, quiero poder calificar a un empleador
-- Como empleador, quiero poder calificar a un trabajador
-- Como trabajador, quiero poder saber la reputación de un empleador que me contacte
+- Cómo adminsitrador, quiero poder indicar categorías sobre las cuales se realizarán las ofertas de servicios
+- Como administrador, quiero poder dar de baja ofertas de servicios, avisando al oferente
+- Como trabajador, quiero registrarme en la plataforma, indicando mis datos personales e información de contacto; tanto mis datos personales como la información de contacto será provista solamente a quienes quieran contratar mis servicios.
+- Como trabajador, quiero poder hacer ofertas de servicios; mi oferta indicará en qué categoría quiero publicar, tendrá una descripción del servicio ofertado, y un precio.
+- Como empleador, quiero registrarme en la plataforma, indicando mis datos personales e información de contacto; tanto mis datos personales como la información de contacto será provista sólo a los trabajadores que quiero contratar.
+- Como empleador, quiero buscar ofertas de trabajo, opcionalmente filtrando por categoría.
+- Como empleador, quiero ver el resultado de las búsquedas de ofertas de trabajo ordenado en forma ascendente de distancia a mi ubicación, es decir, las más cercanas primero.
+- Como empleador, quiero ver el resultado de las búsquedas de ofertas de trabajo ordenado en forma descendente por reputación, es decir, las de mejor reputación primero.
+- Como empleador, quiero poder contactar a un trabajador por una oferta de servicios determinada.
+- Como trabajador, quiero poder calificar a un empleador. El empleador me tiene que calificar a mi también, si no me califica en un mes, la calificación será neutral.
+- Como empleador, quiero poder calificar a un trabajador. El trabajador me tiene que calificar a mi también, si no me califica en un mes, la calificación será neutral.
+- Como trabajador, quiero poder saber la reputación de un empleador que me contacte.
 
 ## Roadmap y entregables
 | Instancia | Fecha | Entregables |
