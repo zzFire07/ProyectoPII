@@ -12,7 +12,7 @@ En esta edición del curso los estudiantes han propuesto varios proyectos relaci
 
 Ese objetivo 8 plantea:
 
-> Promover el credimiento económico inclusivo y sostenible, el empleo y el trabajo decente para todos [fuente](https://www.un.org/sustainabledevelopment/es/economic-growth/).
+> Promover el credimiento económico inclusivo y sostenible, el empleo y el trabajo decente para todos [[fuente](https://www.un.org/sustainabledevelopment/es/economic-growth/)].
 
 La pregunta disparadora del proyecto elegido por los estudiantes es la siguiente:
 
