@@ -30,18 +30,18 @@ Algunas de las aplicaciones más conocidas que abren sus puertas al desarrollo d
 
 Aquí veremos una explicación general e informal de las funciones del software (nuestro programa), escrita desde la perspectiva del usuario final. Su propósito es articular cómo el software proporcionará una función de valor al cliente.
 
-- Cómo adminsitrador, quiero poder indicar categorías sobre las cuales se realizarán las ofertas de servicios para que pueda clasificarlos.
-- Como administrador, quiero poder dar de baja ofertas de servicios, avisando al oferente para que pueda evitar ofertas inadecudas.
-- Como trabajador, quiero registrarme en la plataforma, indicando mis datos personales e información de contacto para proveer información de contacto a quienes quieran contratar mis servicios.
-- Como trabajador, quiero poder hacer ofertas de servicios; mi oferta indicará en qué categoría quiero publicar, tendrá una descripción del servicio ofertado, y un precio para que mis ofertas sean ofrecidas a quienes quieren contratar servicios.
-- Como empleador, quiero registrarme en la plataforma, indicando mis datos personales e información de contacto para proveer información de contacto a los trabajadores que quiero contratar.
-- Como empleador, quiero buscar ofertas de trabajo, opcionalmente filtrando por categoría para poder contratar un servicio.
-- Como empleador, quiero ver el resultado de las búsquedas de ofertas de trabajo ordenado en forma ascendente de distancia a mi ubicación, es decir, las más cercanas primero para poder contratar un servicio.
-- Como empleador, quiero ver el resultado de las búsquedas de ofertas de trabajo ordenado en forma descendente por reputación, es decir, las de mejor reputación primero para poder contratar un servicio.
-- Como empleador, quiero poder contactar a un trabajador para poder contratar una oferta de servicios determinada.
-- Como trabajador, quiero poder calificar a un empleador. El empleador me tiene que calificar a mi también, si no me califica en un mes, la calificación será neutral.
-- Como empleador, quiero poder calificar a un trabajador. El trabajador me tiene que calificar a mi también, si no me califica en un mes, la calificación será neutral.
-- Como trabajador, quiero poder saber la reputación de un empleador que me contacte para poder decidir sobre su solicitud de contratación.
+- Cómo administrador, quiero poder indicar categorías sobre las cuales se realizarán las ofertas de servicios para que de esa forma, pueda clasificarlos.
+- Como administrador, quiero poder dar de baja ofertas de servicios, avisando al oferente para que de esa forma, pueda evitar ofertas inadecudas.
+- Como trabajador, quiero registrarme en la plataforma, indicando mis datos personales e información de contacto para que de esa forma, pueda proveer información de contacto a quienes quieran contratar mis servicios.
+- Como trabajador, quiero poder hacer ofertas de servicios; mi oferta indicará en qué categoría quiero publicar, tendrá una descripción del servicio ofertado, y un precio para que de esa forma, mis ofertas sean ofrecidas a quienes quieren contratar servicios.
+- Como empleador, quiero registrarme en la plataforma, indicando mis datos personales e información de contacto para que de esa forma, pueda proveer información de contacto a los trabajadores que quiero contratar.
+- Como empleador, quiero buscar ofertas de trabajo, opcionalmente filtrando por categoría para que de esa forma, pueda contratar un servicio.
+- Como empleador, quiero ver el resultado de las búsquedas de ofertas de trabajo ordenado en forma ascendente de distancia a mi ubicación, es decir, las más cercanas primero para que de esa forma, pueda poder contratar un servicio.
+- Como empleador, quiero ver el resultado de las búsquedas de ofertas de trabajo ordenado en forma descendente por reputación, es decir, las de mejor reputación primero para que de esa forma, pueda contratar un servicio.
+- Como empleador, quiero poder contactar a un trabajador para que de esa forma pueda, contratar una oferta de servicios determinada.
+- Como trabajador, quiero poder calificar a un empleador; el empleador me tiene que calificar a mi también, si no me califica en un mes, la calificación será neutral, para que de esa forma pueda definir la reputación de mi empleador.
+- Como empleador, quiero poder calificar a un trabajador; el trabajador me tiene que calificar a mi también, si no me califica en un mes, la calificación será neutral, para que de esa forma, pueda definir la reputaión del trabajador.
+- Como trabajador, quiero poder saber la reputación de un empleador que me contacte para que de esa forma, poder decidir sobre su solicitud de contratación.
 
 ## Roadmap y entregables
 | Instancia | Fecha | Entregables |
