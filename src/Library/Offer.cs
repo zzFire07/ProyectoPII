@@ -1,7 +1,14 @@
-namespace ponganElNamespace
+namespace Library
 {
     public class Offer
     {
+        public Offer(int offerID, string description, int price, Category category)
+        {
+            OfferID = offerID;
+            Description = description;
+            Price = price;
+            Category = category;
+        }
         private Category Category { get; set; }
         private string Description { get; set; }
         private int Price { get; set; }

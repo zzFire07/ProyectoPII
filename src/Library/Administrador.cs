@@ -1,9 +1,14 @@
-namespace ponganElNamespace
+namespace Library
 {
     public class Administrador : IPersonalData
     {
+        private Administrador(string Nickname, PersonalData AdminData)
+        {
+            this.Nickname = Nickname;
+            this.AdminData = AdminData;
+        }
         private string Nickname { get; set; }
-        private PersonalData PersonalData { get; set; }
+        private PersonalData AdminData { get; set; }
 
         private void AddCategory(string categoryName)
         {
