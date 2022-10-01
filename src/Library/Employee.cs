@@ -1,10 +1,9 @@
 ﻿namespace Library;
-public class Employee
+public class Employee : IUser
 {
     private PersonalData EmployeePersonalData { get; set; }
     private ContactInfo EmployeeContactInfo { get; set; }
-    public int Reputation { get; set; }
-
+    
     public Employee(PersonalData personalData, ContactInfo contactInfo)
     {
         EmployeePersonalData = personalData;
