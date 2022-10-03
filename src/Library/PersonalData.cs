@@ -2,19 +2,17 @@ namespace Library
 {
     public class PersonalData
     {
-        string Name { get; set; }
-        string LastName { get; set; }
-        string Phone { get; set; }
-        string Email { get; set; }
-        Address address = new Address();
+        private string Name { get; set; }
+        private string LastName { get; set; }
+        private Address Address { get; set; }
+        private ContactInfo ContactInfo { get; set; }
         
-        public PersonalData(string name, string lastname, string phone, string email, Address address)
+        public PersonalData(string name, string lastname, string phone, string email, Address address, ContactInfo contactinfo)
         {
             Name = name;
             LastName = lastname;
-            Phone = phone;
-            Email = email;
             Address = address;
+            ContactInfo = contactinfo;
         }
     }
 }

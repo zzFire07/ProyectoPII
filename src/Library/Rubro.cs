@@ -2,14 +2,14 @@ namespace Library
 {
     public class Rubro
     {
-        private string Rubro { get; set; }
+        private string NombreRubro { get; set; }
         private int YearExperience { get; set; }
         private string ReferenceName { get; set; }
         private string ReferencePhone { get; set; }
 
-        public Rubro(string rubro, int yearExperience, string referenceName, string referencePhone)
+        public Rubro(string nombrederubro, int yearExperience, string referenceName, string referencePhone)
         {
-            Rubro = rubro;
+            NombreRubro = nombrederubro;
             YearExperience = yearExperience;
             ReferenceName = referenceName;
             ReferencePhone = referencePhone;
