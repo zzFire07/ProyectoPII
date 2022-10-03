@@ -14,10 +14,6 @@ namespace Library
         private int Price { get; set; }
         private int OfferID { get; set; }
         private Offer[] OffersList { get; set; }
-
-        //+ GetOffersList() : Offer[]
-        // +Offer(Category, string, int, int) : Offer[]
-        // + GetReputation(Reputation : int) : Int
         public Offer[] GetOffersList()
         {
             //Devolver lista Offer[] de las Ofertas
