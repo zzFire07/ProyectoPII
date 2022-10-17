@@ -6,8 +6,8 @@ public class Employee : IUser
     
     public Employee(PersonalData personalData, ContactInfo contactInfo)
     {
-        EmployeePersonalData = personalData;
-        EmployeeContactInfo = contactInfo;
+        this.EmployeePersonalData = personalData;
+        this.EmployeeContactInfo = contactInfo;
     }
     private void OfferService(Categories category, string description, int price)
     {

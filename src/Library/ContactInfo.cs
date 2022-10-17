@@ -7,8 +7,8 @@ namespace Library
 
         public ContactInfo(string email, string phone, Address address)
         {
-            Email = email;
-            Phone = phone;
+            this.Email = email;
+            this.Phone = phone;
         }
     }
 }

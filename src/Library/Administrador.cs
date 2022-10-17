@@ -1,6 +1,6 @@
 namespace Library
 {
-    public class Administrador : IPersonalData
+    public class Administrador
     {
         private Administrador(string Nickname, PersonalData AdminData)
         {

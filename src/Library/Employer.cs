@@ -7,8 +7,8 @@ namespace Library
 
         public Employer(PersonalData personalData, ContactInfo contactInfo)
         {
-            EmployerPersonalData = personalData;
-            EmployerContactInfo = contactInfo;
+            this.EmployerPersonalData = personalData;
+            this.EmployerContactInfo = contactInfo;
         }
         private void ContactEmployee(ContactInfo employeeinfo)
         {
