@@ -4,7 +4,7 @@
 ## Facultad de Ingeniería y Tecnologías
 ### Programación II
 
-# Proyecto 2022 - Segundo Semestre - Chatbot Objetivos de Desarrollo Sostenible - Objetivo 8: Trabajo decente y crecimiento económico
+# Proyecto 2022 - Segundo Semestre - Chatbot Objetivos de Desarrollo Sostenible
 
 ## Introducción
 
@@ -51,8 +51,3 @@ Aquí veremos una explicación general e informal de las funciones del software 
 | Segunda Entrega | 30 de Octubre | Entrega de [User Stories](https://es.wikipedia.org/wiki/Historias_de_usuario) implementadas. Las historias de usuario deberán ser implementadas mediante casos de prueba (TDD).
 | Entrega Final | 30 de Noviembre<sup>2</sup>|
 
-## :warning: Importante :warning:
-
-Cada equipo designará qué integrante del equipo desarrollará cada clase. La distribución debe contemplar número de clases y responsabilidades. Se evaluará que cada integrante trabaje en una rama independiente y que se integren los cambios mediante pull requests.
-
-Las entregas serán hasta las :clock: 23:59 del día indicado.
